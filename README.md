@@ -7,7 +7,7 @@
 
 ### Welcome to Chbinou Samy Open Source Platform on GitHub! 👋
 
-- 👯 I’m currently learning on how collaborate on opensource projects...
+- 👯 I’m currently learning on how to collaborate on opensource projects...
 
 <!--
 **chbinousamy/chbinousamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
