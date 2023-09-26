@@ -26,6 +26,9 @@ can-utils
 - Porcinet
 
 [![Porcinet CI](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml)
+[![Verrat CI](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml/badge.svg?branch=verrat)](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml?branch=verrat)
+[![Cochette CI](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml/badge.svg?branch=cochette)](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml?branch=cochette)
+[![Porcupine CI](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml/badge.svg?branch=porcupine)](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml?branch=porcupine)
 
 - GNSS-SDR
   
