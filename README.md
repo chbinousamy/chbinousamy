@@ -7,7 +7,7 @@
 
 ### Welcome to Chbinou Samy Open Source Platform on GitHub! 👋
 
-- 👯 I’m currently learning on how to collaborate on opensource projects...
+- 👯 I’m currently experimenting on how to collaborate on opensource projects...
 
 - Linux can-utils
 
