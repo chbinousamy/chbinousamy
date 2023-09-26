@@ -27,14 +27,15 @@ can-utils
 
 [![Porcinet CI](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml)
 
-
 - GNSS-SDR
   
 [![CI](https://github.com/chbinousamy/gnss-sdr/actions/workflows/main.yml/badge.svg)](https://github.com/chbinousamy/gnss-sdr/actions/workflows/main.yml)
 [![CI](https://github.com/chbinousamy/gnss-sdr/actions/workflows/volk_gnsssdr_archs.yml/badge.svg)](https://github.com/chbinousamy/gnss-sdr/actions/workflows/volk_gnsssdr_archs.yml)
 [![CI](https://github.com/chbinousamy/gnss-sdr/actions/workflows/gnss-sdr_archs.yml/badge.svg)](https://github.com/chbinousamy/gnss-sdr/actions/workflows/gnss-sdr_archs.yml)
 
+- Kafka
 
+[![Build](https://github.com/chbinousamy/kafka/actions/workflows/build-kafka.yml/badge.svg)](https://github.com/chbinousamy/kafka/actions/workflows/build-kafka.yml)
 
 <!--
 **chbinousamy/chbinousamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
