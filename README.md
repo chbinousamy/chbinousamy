@@ -9,8 +9,7 @@
 
 - 👯 I’m currently learning on how to collaborate on opensource projects...
 
-- Linux-CAN / SocketCAN
-can-utils
+- Linux can-utils
 
 [![SocketCAN CodeQL Analysis](https://github.com/chbinousamy/can-utils/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/chbinousamy/can-utils/actions/workflows/codeql-analysis.yml)
 [![SocketCAN Build x86 arch](https://github.com/chbinousamy/can-utils/actions/workflows/build-x86.yml/badge.svg)](https://github.com/chbinousamy/can-utils/actions/workflows/build-x86.yml)
@@ -18,10 +17,14 @@ can-utils
 [![SocketCAN Build in armv7](https://github.com/chbinousamy/can-utils/actions/workflows/build-armv7.yml/badge.svg)](https://github.com/chbinousamy/can-utils/actions/workflows/build-armv7.yml)
 [![SocketCAN Build in aarch64](https://github.com/chbinousamy/can-utils/actions/workflows/build-aarch64.yml/badge.svg)](https://github.com/chbinousamy/can-utils/actions/workflows/build-aarch64.yml)
 
-- can-tests
+- Linux can-tests
 
 [![Build](https://github.com/chbinousamy/can-tests/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/chbinousamy/can-tests/actions/workflows/c-cpp.yml)
 
+- Profinet
+
+[![Build Status](https://github.com/chbinousamy/p-net/workflows/Build/badge.svg?branch=master)](https://github.com/chbinousamy/p-net/actions?workflow=Build)
+[![CodeQL](https://github.com/chbinousamy/p-net/workflows/CodeQL/badge.svg?branch=master)](https://github.com/chbinousamy/p-net/actions?workflow=CodeQL)
 
 - Porcinet
 
