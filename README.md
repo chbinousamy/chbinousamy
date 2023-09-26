@@ -25,7 +25,7 @@ can-utils
 
 - Porcinet
 
-![Porcinet CI](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml/badge.svg?branch=main)
+![Porcinet CI](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml/badge.svg?branch=master)
 ![Verrat CI](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml/badge.svg?branch=verrat)
 ![Cochette CI](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml/badge.svg?branch=cochette)
 ![Porcupine CI](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml/badge.svg?branch=porcupine)
