@@ -33,7 +33,7 @@
 [![Cochette CI](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml/badge.svg?branch=cochette)](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml)
 [![Porcupine CI](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml/badge.svg?branch=porcupine)](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml)
 
-- GNSS-SDR
+- Satellite Navigation GNSS-SDR
   
 [![CI](https://github.com/chbinousamy/gnss-sdr/actions/workflows/main.yml/badge.svg)](https://github.com/chbinousamy/gnss-sdr/actions/workflows/main.yml)
 [![CI](https://github.com/chbinousamy/gnss-sdr/actions/workflows/volk_gnsssdr_archs.yml/badge.svg)](https://github.com/chbinousamy/gnss-sdr/actions/workflows/volk_gnsssdr_archs.yml)
