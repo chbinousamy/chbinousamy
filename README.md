@@ -33,6 +33,13 @@
 [![Cochette CI](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml/badge.svg?branch=cochette)](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml)
 [![Porcupine CI](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml/badge.svg?branch=porcupine)](https://github.com/chbinousamy/porcinet/actions/workflows/c-cpp.yml)
 
+- Wireshark
+
+[![Build MacOS](https://github.com/chbinousamy/wireshark/actions/workflows/macos.yml/badge.svg)](https://github.com/chbinousamy/wireshark/actions/workflows/macos.yml)
+[![Build Ubuntu](https://github.com/chbinousamy/wireshark/actions/workflows/ubuntu.yml/badge.svg)](https://github.com/chbinousamy/wireshark/actions/workflows/ubuntu.yml)
+[![Build Windows](https://github.com/chbinousamy/wireshark/actions/workflows/windows.yml/badge.svg)](https://github.com/chbinousamy/wireshark/actions/workflows/windows.yml)
+[![Build MSYS2](https://github.com/chbinousamy/wireshark/actions/workflows/msys2.yml/badge.svg)](https://github.com/chbinousamy/wireshark/actions/workflows/msys2.yml)
+
 - Satellite Navigation GNSS-SDR
   
 [![CI](https://github.com/chbinousamy/gnss-sdr/actions/workflows/main.yml/badge.svg)](https://github.com/chbinousamy/gnss-sdr/actions/workflows/main.yml)
