@@ -10,6 +10,9 @@
 - 👯 I’m neutral and independant. I'm currently experimenting on how to collaborate on opensource projects...
 - [My Resume (CV)](https://chbinousamy.github.io/resume/)
 
+- Git
+[![Git CI](https://github.com/chbinousamy/git/blob/master/.github/workflows/main.yml)
+
 - Linux can-utils
 
 [![SocketCAN CodeQL Analysis](https://github.com/chbinousamy/can-utils/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/chbinousamy/can-utils/actions/workflows/codeql-analysis.yml)
