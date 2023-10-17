@@ -11,7 +11,8 @@
 - [My Resume (CV)](https://chbinousamy.github.io/resume/)
 
 - Git
-[![Git CI](https://github.com/chbinousamy/git/blob/master/.github/workflows/main.yml)](https://github.com/chbinousamy/git/blob/master/.github/workflows/main.yml)
+
+[![Git CI](https://github.com/chbinousamy/git/workflows/CI/badge.svg?branch=main)](https://github.com/chbinousamy/git/actions?workflow=CI)
 
 - Linux can-utils
 
