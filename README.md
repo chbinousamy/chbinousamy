@@ -8,7 +8,7 @@
 ### Welcome to Chbinou Samy Open Source Platform on GitHub! 👋
 
 - 👯 I’m neutral and independant. I'm currently experimenting on how to collaborate on opensource projects...
-- [My Resume](https://chbinousamy.github.io/resume/)
+- [My Resume (CV)](https://chbinousamy.github.io/resume/)
 
 - Linux can-utils
 
