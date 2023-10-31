@@ -51,6 +51,10 @@
 [![CI](https://github.com/chbinousamy/gnss-sdr/actions/workflows/volk_gnsssdr_archs.yml/badge.svg)](https://github.com/chbinousamy/gnss-sdr/actions/workflows/volk_gnsssdr_archs.yml)
 [![CI](https://github.com/chbinousamy/gnss-sdr/actions/workflows/gnss-sdr_archs.yml/badge.svg)](https://github.com/chbinousamy/gnss-sdr/actions/workflows/gnss-sdr_archs.yml)
 
+- Solidity
+
+[![CI](https://github.com/chbinousamy/solidity/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/chbinousamy/solidity/actions/workflows/c-cpp.yml)
+
 - Kafka
 
 [![Build](https://github.com/chbinousamy/kafka/actions/workflows/build-kafka.yml/badge.svg)](https://github.com/chbinousamy/kafka/actions/workflows/build-kafka.yml)
