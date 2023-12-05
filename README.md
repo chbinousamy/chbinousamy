@@ -10,6 +10,10 @@
 - 👯 I’m neutral and independant. I'm currently experimenting on how to collaborate on opensource projects...
 - [My Resume (CV)](https://chbinousamy.github.io/resume/)
 
+- Azurite
+
+[![WIP CI](https://github.com/chbinousamy/azurite/actions/workflows/ci.yml/badge.svg?branch=wip)](https://github.com/chbinousamy/azurite/actions/workflows/ci.yml)
+
 - Porsche Design System
    
 [![Build and Push Docker Image](https://github.com/chbinousamy/porsche-design-system/actions/workflows/build-and-push-docker-image.yml/badge.svg)](https://github.com/chbinousamy/porsche-design-system/actions/workflows/build-and-push-docker-image.yml)
