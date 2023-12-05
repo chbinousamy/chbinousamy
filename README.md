@@ -12,7 +12,7 @@
 
 - Azurite
 
-[![WIP CI](https://github.com/chbinousamy/azurite/actions/workflows/ci.yml/badge.svg?branch=wip)](https://github.com/chbinousamy/azurite/actions/workflows/ci.yml)
+[![WIP CI](https://github.com/chbinousamy/Azurite/actions/workflows/ci.yml/badge.svg?branch=wip)](https://github.com/chbinousamy/Azurite/actions/workflows/ci.yml)
 
 - Porsche Design System
    
