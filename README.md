@@ -10,6 +10,9 @@
 - 👯 I’m neutral and independant. I'm currently experimenting on how to collaborate on opensource projects...
 - [My Resume (CV)](https://chbinousamy.github.io/resume/)
 
+- Porsche Design System
+  [![Build and Push Docker Image](https://github.com/chbinousamy/porsche-design-system/actions/workflows/build-and-push-docker-image.yml/badge.svg)](https://github.com/chbinousamy/porsche-design-system/actions/workflows/build-and-push-docker-image.yml)
+
 - Git
 
 [![Git CI](https://github.com/chbinousamy/git/workflows/CI/badge.svg?branch=main)](https://github.com/chbinousamy/git/actions?workflow=CI)
