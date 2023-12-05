@@ -57,7 +57,7 @@
 
 - SolidityX
 
-[![CI](https://github.com/chbinousamy/solidityX/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/chbinousamy/solidityX/actions/workflows/c-cpp.yml)
+[![Make](https://github.com/chbinousamy/solidityX/actions/workflows/make.yml/badge.svg)](https://github.com/chbinousamy/solidityX/actions/workflows/make.yml)
 
 
 <!--
