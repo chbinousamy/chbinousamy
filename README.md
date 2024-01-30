@@ -5,9 +5,9 @@
 </div>
 
 
-### Welcome to Chbinou Samy Open Source Platform on GitHub! 👋
+### Welcome to Samy Chbinou Open Source Platform on GitHub! 👋
 
-- 👯 I’m neutral and independant. I'm currently experimenting on how to collaborate on opensource projects...
+- 👯 I’m interested in "Positionning and Navigation Systems" subject: GNSS, GPS, IMU, Inertial Sensors, GoogleMaps...
 
 - MATLAB
 
