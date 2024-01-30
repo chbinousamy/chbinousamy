@@ -7,7 +7,7 @@
 
 ### Welcome to Samy Chbinou Open Source Platform on GitHub! 👋
 
-- 👯 I’m interested in "Positionning and Navigation Systems" subject: GNSS, GPS, IMU, Inertial Sensors, GoogleMaps...
+- 👯 I’m interested in "Positionning and Navigation Systems" subject: GNSS, GPS, IMU, Inertial Sensors, AHRS, GoogleMaps...
 
 - MATLAB
 
